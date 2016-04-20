@@ -99,8 +99,7 @@ width: 30%;
 #Me {
 width: 50%;
     height: 500px;
-    margin: 0 auto;
-    text-align: center;
+   
 }
 
 footer {
@@ -114,5 +113,4 @@ main {
     padding: 10px;
     display: inline, center;
     margin: 0 auto;
-
 }
