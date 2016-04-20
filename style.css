@@ -99,8 +99,8 @@ width: 30%;
 #Me {
 width: 50%;
     height: 500px;
-    margin: 20 auto;
-    display: center;
+    margin: 0 auto;
+    text-align: center;
 }
 
 footer {
