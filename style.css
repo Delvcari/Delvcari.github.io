@@ -100,6 +100,7 @@ width: 30%;
 width: 50%;
     height: 500px;
     margin: 0 auto;
+    display: center;
 }
 
 footer {
