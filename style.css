@@ -73,7 +73,7 @@ nav a:hover {
 
 #News {
     width: 1200px; 
-    margin: 0 auto
+    margin: 0 auto;
 }
 
 #Comments {
@@ -106,4 +106,5 @@ main {
     font-style: arial;
     padding: 10px;
     display: inline;
+    margin: 0 auto;
 }
