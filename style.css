@@ -68,10 +68,19 @@ footer {
     background-color: #FFFF00;
 }
 
+#Stuggles {
+    width: 1200px; 
+    margin: 0 auto
+}
+
+#News {
+    width: 1200px; 
+    margin: 0 auto
+}
+
 #Comments {
      width: 50%;
     height: 25%;
     margin: 0 auto;
     display: block;
-
 }
