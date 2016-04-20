@@ -1,9 +1,10 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: ;
+    background-color: #C7C7BF;
 }
 
 .container {
+    background-color: #03BEF3;
     width: 1200px; 
     margin: 0 auto; 
 }
